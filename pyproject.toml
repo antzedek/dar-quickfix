@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "dar-quickfix"
+version = "1.0.1"
+description = "DAR 4.0 QuickFix — Runtime Patch for LLM Stability (Chaos Fix, Anti-Loop, Δφ Stabilization)"
+readme = "README.md"
+requires-python = ">=3.9"
+
+authors = [
+    { name="antzedek", email="antzedek@gmail.com" }
+]
+
+license = { file = "LICENSE" }
+
+dependencies = [
+    "sentence-transformers",
+    "numpy",
+]
+
+
+[project.urls]
+Homepage = "https://github.com/antzedek/dar-quickfix"
+Documentation = "https://github.com/antzedek/dar-quickfix"
+Source = "https://github.com/antzedek/dar-quickfix"
+Issues = "https://github.com/antzedek/dar-quickfix/issues"
