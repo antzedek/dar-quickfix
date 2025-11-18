@@ -1,0 +1,20 @@
+dar-quickfix/
+├── dar/
+│   ├── __init__.py
+│   ├── core.py
+│   ├── branching.py
+│   ├── stability.py
+│   ├── memory.py
+│   ├── merge.py
+│   ├── utils.py
+│   └── pwm.py
+├── examples/
+│   ├── openai_example.py
+│   ├── groq_example.py
+│   └── ollama_local.py
+├── benchmarks/
+│   └── test_suite.py
+├── DAR_QuickFix_2025.pdf          # Twój oryginalny manifest
+├── README.md
+├── requirements.txt
+└── pyproject.toml                  # opcjonalnie dla pip install
