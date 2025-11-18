@@ -1,3 +1,228 @@
+# **AJ Power License – Anti‑Monopoly & Redistribution (v1.0)**
+
+**Copyright (c) 2025 antzedek & AJ Power Collective**
+
+The DAR 4.0 QuickFix source code is released under the **AJ Power Licensing Model – Anti‑Monopoly & Redistribution**.
+
+This model was created to ensure that technology remains a tool of balance, not domination. 
+Knowledge and energy flow back to the people — through *equity*, not markets.
+
+This is not a commercial contract. 
+It is a **civilizational fairness mechanism**.
+
+The model introduces a natural redistribution flow: instead of taxation, it uses fair licensing rates. It protects against monopolies, supports open access, and funds local manufacturing capacity. It is both a legal license and an **economic self‑balancing system** for the new technological era.
+
+---
+
+## **Short version**
+
+- Research, education, hobby, non‑profit → **0%** forever 
+- Commercial use → progressive licensing fee based on revenue and margin
+- "Bank transfer = contract" (zero paperwork)
+- Prohibited uses: weapons, repression, environmental destruction
+- Part of all commercial fees supports open development & local deployment
+
+This is **not** classical open‑source.
+
+This is **Open‑Source 2.0** — with redistribution and anti‑monopoly logic built‑in.
+
+DAR stabilizes the mind.  
+AJ Power License stabilizes the system.  
+Together they shape **Civilization 2.0**.
+
+---
+
+# **AJ Power License – Anti‑Monopoly & Redistribution**
+
+## **1. Purpose of the Licensing Model**
+
+The AJ Power Licensing Model was created to:
+
+- Protect the integrity of the AJ Power technological ecosystem (open, but governed);
+- Block monopolistic or exploitative market dominance;
+- Guarantee distributed benefits (knowledge, revenue, production capacity);
+- Finance funds for local development and deployment;
+- Strengthen resilience of energy and economic systems globally;
+- Protect the creator’s rights and ensure long‑term steering capacity;
+- Maintain public access to AJ Power technology — for people, not only corporations.
+
+---
+
+## **2. Licensing Form**
+
+Licenses are granted:
+
+- via **bank transfer = binding contract**, no bureaucracy, 
+- under a transparent **progressive fee structure**,
+- with automatic adjustment mechanisms,
+- with strong preferences for open‑source, educational, and local projects.
+
+No exclusivity, no closed licenses, no artificial access barriers.
+
+---
+
+## **3. Progressive Licensing Fee Structure**
+
+### **Base annual fee tiers**
+
+| Annual Revenue | Fee | Notes |
+|----------------|-----|--------|
+| 0 – 100k PLN   | 0% – 1% | micro‑enterprises, symbolic |
+| 100k – 1M PLN  | 1% – 3% | small companies |
+| 1M – 10M PLN   | 3% – 5% | serial manufacturers |
+| 10M – 100M PLN | 5% – 7% | large companies |
+| >100M PLN      | 7% – 10% | global corporations |
+
+### **Additional adjustments**
+
+- **+3%** for market dominance (>30% share in a device/product category)  
+- **–1% to –2%** for open‑source hardware/software initiatives  
+- **0%** for non‑profit, educational, crisis‑response use cases
+
+### **Margin Adjustment (Price Fairness Rule)**
+
+To ensure AJ Power technology remains accessible:
+
+- Every **+10 percentage points** of net margin above **25%** → **+1 pp** extra licensing fee  
+- Margin below 25% → **no adjustment** (reward for affordable pricing)  
+- Margins >50% → individually reviewed by AJ Power Foundation
+
+Purpose: keep end‑user prices low & prevent extractive pricing.<
+
+---
+
+## **4. Research & Non‑Commercial License (0%)**
+
+All research, educational, developmental, hobby, or community use is automatically covered by a **0% fee license**. No forms or declarations are required.
+
+If a non‑commercial project transitions into commercial activity, it automatically enters the appropriate tier of the progressive license model.
+
+This supports research and education as key pillars of **Civilization 2.0**.
+
+---
+
+## **5. Initial Commercial Licensing Fee (progressive)**
+
+For commercial entities, a one‑time onboarding fee applies:
+
+```
+Initial Fee = 0.1% × (annual revenue) × √(net margin %)
+```
+(rounded to nearest 100 PLN)
+
+Effects:
+
+- micro/small firms → symbolic few thousand PLN
+- mid‑size → tens of thousands
+- large → hundreds of thousands
+- global corps → millions (proportional to actual economic footprint)
+
+Payment of this fee equals **automatic activation** of the AJ Power / AJ‑Compatible™ license.
+
+Purpose:
+
+- low‑margin, fair‑pricing producers pay less,
+- high‑margin, exploitative producers pay more,
+- everyone contributes proportionally to real economic power.
+
+**Principle: greater profit = greater responsibility.**
+
+---
+
+## **6. Allocation of Licensing Revenue**
+
+| Area | Share | Purpose |
+|------|-------|----------|
+| AJ Power development | 30–40% | code, API, docs, tests, integration |
+| Local manufacturers | 20–30% | grants, tools, training |
+| Social + ecological programs | 10–20% | OZE, education, climate adaptation |
+| Global stabilization fund | 10% | crises, counter‑abuse measures |
+| Creator/IP protection | 10% | FTO, legal shields, know‑how |
+
+---
+
+## **7. Systemic & Economic Effects**
+
+- Natural resource redistribution via licensing instead of taxation  
+- No need for market enforcement structures  
+- Incentives for collaboration & openness instead of dominance  
+- Ecosystem stability without coercive regulation  
+- Growth of local technological autonomy  
+- Global expansion without technological colonialism
+
+---
+
+## **8. Safety & Justice Clauses**
+
+- License may not be used for weapons, repression, environmental destruction  
+- Fees may be revoked if rules are violated  
+- Local priorities take precedence (principle of subsidiarity)  
+- IP protection may not limit basic public access
+
+---
+
+## **9. Global System Version**
+
+The model is global but decentralized. Licensing revenue is handled jointly by AJ Power and local foundations. Each country manages its portion under shared technological standards.
+
+---
+
+## **10. Summary**
+
+The AJ Power Licensing Model is a tool for:
+
+- development,  
+- balance,  
+- anti‑monopoly protection,  
+- building a collaborative post‑industrial economy.
+
+It is not just a license. It is a **self‑balancing economic mechanism**.
+
+---
+
+# **How to Activate the License ("transfer = contract")**
+
+1. Calculate the required amount according to the formulas above.
+2. Send a bank transfer to the AJ Power Collective:
+
+### **PLN**
+```
+AJ Power (licensing account)
+IBAN: 90102023130000310211762673
+SWIFT: BPKOPLPW
+Title: "AJ Power License – DAR QuickFix – [company / person]"
+```
+
+### **EUR**
+```
+AJ Power (licensing account)
+IBAN: 14102023130000320211765932
+SWIFT: BPKOPLPW
+Title: "AJ Power License – DAR QuickFix – [company / person]"
+```
+
+### **USD**
+```
+AJ Power (licensing account)
+IBAN: 19102023130000300211765940
+SWIFT: BPKOPLPW
+```
+
+3. Once the transfer is booked, the license becomes active automatically.
+
+---
+
+### **Operational contact / licensing questions**
+
+✉️ **antzedek@gmail.com**  
+🔗 **ardai.pl/APC/**
+
+---
+
+"**Transfer = Contract**" — no papers, no notary, no games.
+
+PL
+
 **AJ Power License – Antymonopol i Redystrybucja (wersja 1.0)**
 
 **Copyright (c) 2025 antzedek \& AJ Power Collective**
@@ -337,5 +562,6 @@ SWIFT: BPKOPLPW
 Kontakt operacyjny / pytania licencyjne:  
    ✉️ antzedek@gmail.com 
    🔗 ardai.pl/APC/
+
 
 „Przelew = umowa” – bez papierów, bez notariusza, bez ściemy.
