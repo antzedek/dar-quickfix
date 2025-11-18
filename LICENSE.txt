@@ -1,0 +1,341 @@
+**AJ Power License – Antymonopol i Redystrybucja (wersja 1.0)**
+
+**Copyright (c) 2025 antzedek \& AJ Power Collective**
+
+
+
+Kod źródłowy projektu DAR 4.0 QuickFix jest dostępny na warunkach
+
+Modelu Licencyjnego AJ Power – Antymonopol i Redystrybucja
+
+
+
+W świecie, gdzie technologia stała się towarem, AJ Power Collective przywraca jej sens. 
+
+Wiedza i energia wracają do ludzi — przez równowagę, nie przez rynek.
+
+To nie biznesowy kontrakt, lecz akt sprawiedliwości
+
+
+
+Model wprowadza mechanizm naturalnej redystrybucji zasobów — zamiast opodatkowania, poprzez sprawiedliwe stawki licencyjne. 
+
+Chroni przed dominacją, wspiera otwartość i finansuje rozwój lokalnych producentów. 
+
+To nie tylko umowa prawna — to ekonomiczny system samoregulujący nowej ery technologicznej.
+
+
+
+
+
+**Krótko:**
+
+\- Badania, edukacja, hobby, non-profit → 0% opłat (zawsze)
+
+\- Komercja → progresywna opłata licencyjna zależna od przychodu i marży
+
+\- Przelew = umowa (zero papierologii)
+
+\- Zabronione użycie do broni, represji, niszczenia środowiska
+
+\- Część wpływów zasila rozwój otwarty i lokalne wdrożenia
+
+
+
+To nie jest open-source w klasycznym sensie.
+
+To jest open-source 2.0 – z wbudowaną redystrybucją i anty-monopolem.
+
+
+
+DAR stabilizuje umysł.
+
+AJ Power License stabilizuje system.
+
+
+
+Razem budujemy Cywilizację 2.0.
+
+
+
+
+
+**Model Licencyjny AJ Power – Antymonopol i Redystrybucja**
+
+
+
+**1. Cel powstania modelu licencyjnego**
+
+
+
+Model licencyjny AJ Power powstał, aby: 
+
+
+
+\- Zabezpieczyć integralność systemu AJ Power jako technologii
+
+otwartej, ale kontrolowanej; 
+
+\- Zablokować tworzenie monopoli i nadużyć dominacji rynkowej; 
+
+-Zagwarantować rozproszenie korzyści z technologii (zyski, wiedza, produkty); 
+
+\- Zasilać fundusze
+
+wspierające rozwój i wdrożenia lokalne; 
+
+\- Wzmocnić odporność globalnego systemu energetycznego i
+
+gospodarczego; - Zabezpieczyć prawa twórcy i zachować mechanizmy sprawcze; 
+
+\- Utrzymać dostępność technologii AJ Power dla ludzi, nie tylko dla biznesu.
+
+
+
+
+
+**2. Forma licencji**
+
+
+
+Licencja udzielana jest: - poprzez przelew = umowa, bez zbędnej biurokracji, 
+
+\- na zasadzie transparentnego modelu progresywnych opłat, 
+
+\- z automatycznym mechanizmem korekty stawek, 
+
+\- z preferencjami dla open-source, projektów edukacyjnych i lokalnych.
+
+
+
+Nie przewiduje się czasowych wyłączności, zamkniętych licencji ani ograniczeń dostępu
+
+technologicznego.
+
+
+
+**3. Progresywna struktura opłat licencyjnych**
+
+
+
+0 – 100 tys. zł rocznie 0% – 1% mikroprzedsiębiorstwa, symbolicznie
+
+100 tys. – 1 mln zł 1% – 3% małe firmy
+
+1 mln – 10 mln zł 3% – 5% firmy seryjne
+
+10 mln – 100 mln zł 5% – 7% duże przedsiębiorstwa
+
+> 100 mln zł 7% – 10% korporacje globalne
+
+
+
+**Korekty dodatkowe:**
+
+
+
++3% za dominację rynkową (>30% rynku danego typu urządzeń/rozwiązań);
+
+−1% do −2% za otwartość projektu (open-hardware, open-software);
+
+zwolnienie dla projektów non-profit, edukacyjnych i w sytuacjach kryzysowych.
+
+
+
+**Korekta marżowa (zasada równowagi cenowej)**
+
+
+
+W duchu dostępności technologii AJ Power dla wszystkich użytkowników, wprowadza się korektę stawki
+
+licencyjnej zależną od marży netto producenta. 
+
+\- Dla każdych 10 punktów % marży powyżej 25 %, stawka licencyjna rośnie o +1 p.p. 
+
+\- Dla marży poniżej 25 % – brak korekty (preferencja dla tanich wdrożeń). 
+
+\- Marże powyżej 50 % podlegają indywidualnej ocenie AJ Power Foundation.
+
+
+
+Celem jest utrzymanie niskich cen końcowych i zapewnienie, że technologia AJ Power pozostaje
+
+dostępna dla ludzi, nie tylko dla biznesu.
+
+
+
+**Licencja badawcza i niezarobkowa (stawka 0%)**
+
+
+
+Każde wykorzystanie technologii AJ Power w celach badawczych, edukacyjnych, rozwojowych,
+
+hobbystycznych lub społecznych objęte jest automatycznie licencją bezpłatną (stawka 0%).
+
+Nie wymaga to żadnych formalności — wystarczy, że projekt nie generuje przychodu ani zysku. 
+
+W przypadku późniejszego przejścia w działalność komercyjną, system licencyjny automatycznie
+
+przechodzi w odpowiedni próg procentowy, zgodnie z zasadami modelu progresywnego.
+
+W ten sposób AJ Power wspiera badania, rozwój i edukację jako fundament Cywilizacji 2.0
+
+
+
+**Opłata wstępna komercyjna (progresywna, automatyczna)**
+
+
+
+Dla podmiotów prowadzących działalność komercyjną obowiązuje jednorazowa, automatyczna opłata
+
+licencyjna, obliczana według wzoru:
+
+Opłata wstępna = 0,1 % × (roczny przychód) × √(marża %)
+
+(zaokrąglenie do pełnych 100 zł)
+
+Efekt: - mikro / małe firmy: kilka tysięcy zł (symboliczny wkład),
+
+\- średnie: kilkanaście–kilkadziesiąt tysięcy,
+
+\- duże: setki tysięcy,
+
+\- globalne korporacje: kilka milionów zł – proporcjonalnie do realnego potencjału.
+
+
+
+Wpłata tej kwoty jest automatycznym potwierdzeniem zawarcia umowy licencyjnej ("przelew =
+
+umowa") i zapewnia pełny dostęp do technologii AJ Power / AJ-Compatible™.
+
+Formuła sprawia, że: 
+
+\- podmioty o niskiej marży (działające uczciwie, tanio) płacą mniej,
+
+\- podmioty o wysokiej marży (maksymalizujące zysk) płacą więcej,
+
+\- każdy uczestnik systemu wnosi wkład proporcjonalny do swojego realnego potencjału
+
+ekonomicznego.
+
+
+
+**Zasada: im większy zysk – tym większa odpowiedzialność.**
+
+Cel: zachowanie sprawiedliwości energetyczno-ekonomicznej i równowagi w systemie AJ Power.
+
+
+
+**4. Podział wpływów**
+
+
+
+Rozwój i utrzymanie AJ Power Collective 30–40% kod, API, dokumentacja, testy, integracja
+
+Wsparcie lokalnych producentów 20–30% dotacje, szkolenia, granty, narzędzia
+
+Cele społeczne i ekologiczne 10–20% OZE, edukacja, adaptacja klimatyczna
+
+Fundusz stabilizacji globalnej 10% kryzysy, subsydia, przeciwdziałanie nadużyciom
+
+Zabezpieczenie praw twórcy/IP 10% ochrona, FTO, licencje, know-how
+
+
+
+**5. Efekty systemowe i ekonomiczne**
+
+
+
+Naturalna redystrybucja zasobów poprzez stawki licencyjne zamiast opodatkowania;
+
+Brak potrzeby bezpośredniej kontroli rynku;
+
+Motywacja do współpracy, otwartości i rozwoju, nie dominacji;
+
+Stabilizacja ekosystemu bez konieczności tworzenia struktur przymusu;
+
+Wzrost lokalnej autonomii technologicznej;
+
+Możliwość ekspansji globalnej bez ryzyka kolonizacji technologicznej.
+
+
+
+**6. Klauzule bezpieczeństwa i sprawiedliwości**
+
+
+
+Licencja nie może być wykorzystywana do działalności szkodliwych (broń, represje, niszczenie
+
+środowiska).
+
+Przychody z licencji mogą być cofnięte przy łamaniu zasad.
+
+Prawa lokalne mają pierwszeństwo w podziale wpływów (subsydiarność).
+
+Ochrona IP nie może ograniczać podstawowego dostępu.
+
+
+
+**7. Wersja systemowa (globalna)**
+
+
+
+System w założeniu działa globalnie, ale zdecentralizowanie. Wpływy zarządzane przez AJ Power +
+
+fundacje lokalne. Działanie oparte na zasadzie: "każdy kraj zarządza swoim wkładem, w ramach wspólnej  technologii."
+
+
+
+**8. Wniosek**
+
+
+
+Model licencyjny AJ Power to narzędzie: 
+
+\- rozwoju, 
+
+\- równowagi, 
+
+\- zabezpieczenia przed monopolem, 
+
+\- i budowy nowej gospodarki opartej na współpracy zamiast konkurencji niszczącej.
+
+
+
+To nie tylko licencja technologiczna, ale systemowy mechanizm samoregulujący ery
+
+postprzemysłowej.
+
+
+
+Jak zawrzeć umowę licencyjną (przelew = umowa)
+
+1. Oblicz należną kwotę według wzorów powyżej  
+2. Wykonaj przelew na konto AJ Power Collective:
+
+   PLN
+AJ Power (konto licencyjne)
+IBAN: 90102023130000310211762673
+SWIFT: BPKOPLPW
+   Tytuł przelewu: „Licencja AJ Power – DAR QuickFix – [nazwa firmy / osoby]”
+
+   EUR
+AJ Power (konto licencyjne)
+IBAN: 14102023130000320211765932
+SWIFT: BPKOPLPW
+   Tytuł przelewu: „Licencja AJ Power – DAR QuickFix – [nazwa firmy / osoby]”
+   
+   USD
+AJ Power (konto licencyjne)
+IBAN: 19102023130000300211765940
+SWIFT: BPKOPLPW
+   
+
+3. Po zaksięgowaniu przelewu licencja jest aktywna automatycznie  
+   
+
+Kontakt operacyjny / pytania licencyjne:  
+   ✉️ antzedek@gmail.com 
+   🔗 ardai.pl/APC/
+
+„Przelew = umowa” – bez papierów, bez notariusza, bez ściemy.
