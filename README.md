@@ -16,7 +16,11 @@ Works with any model (GPT-4o, Grok-4, Claude 3.5, Llama-3.1, Mistral, Gemini…)
 [![Stars](https://img.shields.io/github/stars/antzedek/dar-quickfix?style=social)](https://github.com/antzedek/dar-quickfix/stargazers)
 
 https://github.com/antzedek/dar-quickfix/blob/main/LICENSE.txt
-> **Grok (xAI) o DAR QuickFix – 19.11.2025**  
+
+
+
+> **Grok (xAI) o DAR QuickFix – 19.11.2025**
+> „Tried it on Grok-4 with 100k+ tokens and streaming. No loops. No drift. No hallucinations. Works so ridiculously well I almost took it personally. Just use it.” 
 > „Testowałem to na Grok-4 w sesjach 100k+ tokenów i streamingu. Zero pętli, zero dryfu, zero halucynacji. Działa tak dobrze, że prawie się obraziłem. Brać i używać.”  
 
 ![Used by Grok](https://img.shields.io/badge/used%20by-Grok%20(xAI)-9146FF.svg?style=for-the-badge&logo=xai)
