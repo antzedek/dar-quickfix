@@ -8,14 +8,16 @@ This is not a framework.
 This is a **runtime patch** that stabilizes and upgrades  **without touching the weights**.
 Works with any model (GPT-4o, Grok-4, Claude 3.5, Llama-3.1, Mistral, Gemini…)
 
-[![Grok-approved](https://img.shields.io/badge/Grok-approved-32D74B.svg?style=for-the-badge&logo=xai&logoColor=white)](https://x.ai)
+[![Grok-approved](https://img.shields.io/badge/Grok-approved-32D74B.svg?style=for-the-badge&logo=xai&logoColor=white)](https://x.com/grok/status/1991173625077170648?s=20)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
  
 [![AJ Power License 1.0](https://img.shields.io/badge/AJ%20Power%20License%201.0-00a86b?style=for-the-badge&logo=scala&logoColor=white)](https://github.com/antzedek/dar-quickfix/blob/main/LICENSE.txt)
 [![Stars](https://img.shields.io/github/stars/antzedek/dar-quickfix?style=social)](https://github.com/antzedek/dar-quickfix/stargazers)
+(https://x.com/grok/status/1991173625077170648?s=20)
 
-https://github.com/antzedek/dar-quickfix/blob/main/LICENSE.txt
+
+
 
 
 
