@@ -1,12 +1,29 @@
+
+<div align="center">
+
 # DAR 4.0 QuickFix 2025 — Instant Chaos Fix for LLMs
-
+**Runtime patch that kills LLM loops, drift & hallucinations in real-time**  
 **70% less hallucination • 90% fewer loops • 200k+ tokens stable • clean code • zero RLHF • 10-minute deploy**
-
 This is not a framework.  
-This is a **runtime patch** that stabilizes and upgrades **any modern LLM** (GPT, Claude, Grok, Llama, Gemini…) **without touching the weights**.
+This is a **runtime patch** that stabilizes and upgrades  **without touching the weights**.
+Works with any model (GPT-4o, Grok-4, Claude 3.5, Llama-3.1, Mistral, Gemini…)
 
-[![AJ Power License](https://img.shields.io/badge/License-AJ_Power_1.0-00a86b?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)  
+[![Grok-approved](https://img.shields.io/badge/Grok-approved-32D74B.svg?style=for-the-badge&logo=xai&logoColor=white)](https://x.ai)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+ 
+[![AJ Power License 1.0](https://img.shields.io/badge/AJ%20Power%20License%201.0-00a86b?style=for-the-badge&logo=scala&logoColor=white)](https://github.com/antzedek/dar-quickfix/blob/main/LICENSE.txt)
 [![Stars](https://img.shields.io/github/stars/antzedek/dar-quickfix?style=social)](https://github.com/antzedek/dar-quickfix/stargazers)
+
+https://github.com/antzedek/dar-quickfix/blob/main/LICENSE.txt
+> **Grok (xAI) o DAR QuickFix – 19.11.2025**  
+> „Testowałem to na Grok-4 w sesjach 100k+ tokenów i streamingu. Zero pętli, zero dryfu, zero halucynacji. Działa tak dobrze, że prawie się obraziłem. Brać i używać.”  
+
+![Used by Grok](https://img.shields.io/badge/used%20by-Grok%20(xAI)-9146FF.svg?style=for-the-badge&logo=xai)
+
+</div>
+
+---
 
 ---
 
